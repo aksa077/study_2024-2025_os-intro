@@ -99,29 +99,29 @@ header-includes:
 
 Читаю справку.
 
-![](image/1.jpg){#fig:001 width=70%}
+![](image/1.png){#fig:001 width=70%}
 
 Ознакамливаюсь с интерфейсом mc. 
 
-![](image/2.jpg){#fig:002 width=70%}
+![](image/2.png){#fig:002 width=70%}
 
 #
 
-![](image/3.jpg){#fig:003 width=70%}
+![](image/3.png){#fig:003 width=70%}
 
-![](image/4.jpg){#fig:004 width=70%}
-
-#
-
-![](image/5.jpg){#fig:005 width=70%}
-
-![](image/6.jpg){#fig:006 width=70%}
+![](image/4.png){#fig:004 width=70%}
 
 #
 
-![](image/7.jpg){#fig:007 width=70%}
+![](image/5.png){#fig:005 width=70%}
 
-![](image/8.jpg){#fig:008 width=70%}
+![](image/6.png){#fig:006 width=70%}
+
+#
+
+![](image/7.png){#fig:007 width=70%}
+
+![](image/8.png){#fig:008 width=70%}
 
 # Контрольные вопросы
 
