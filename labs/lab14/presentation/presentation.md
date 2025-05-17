@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабораторная работа 4
+title: Лабораторная работа 14
 
 author:
   - Исаев Р. К.
